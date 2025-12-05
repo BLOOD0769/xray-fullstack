@@ -1,0 +1,19 @@
+fastapi
+uvicorn[standard]
+pydantic
+numpy
+pandas
+Pillow
+tqdm
+torch
+torchvision
+scikit-learn
+matplotlib
+opencv-python
+albumentations
+grad-cam==1.4.5
+aiofiles
+python-multipart
+requests
+pytest
+# frontend dev (not used in backend)
